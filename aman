@@ -1,0 +1,98 @@
+<html>
+	<head>
+	<title>HTML table colspan/Rowspan</title>
+	</head>
+
+	<body style="background-image:url('/home/6CSE1/Downloads/pexels-photo-255379.jpeg');">
+	<table border="1"bgcolor="yellow">
+	<tr>
+ 	 <th>column1</th>
+	 <th>column2</th>
+	 <th>column3</th>
+	</tr>
+	<tr>
+	<td rowspan="2">row 1 cell 1</td>
+	<td>Row 1 cell 2</td>
+	<td>Row 1 cell 3</td>
+  	</tr>
+	<tr>
+	 <td>Row 2 cell 2</td>
+	 <td>Row 2 cell 3</td>
+	</td>
+	<tr>
+	 <td colspan="3">Row 3 cell 1</td>
+	</tr>
+</table>
+
+<a href="mailto:ama@gmail.com">send Email</a>
+<br></br>
+
+<font size="1">Font size="1"</font><br/>
+<font size="2">Font size="2"</font><br/>
+<font size="3">Font size="3"</font><br/>
+<font size="4">Font size="4"</font><br/>
+<font size="5">Font size="5"</font><br/>
+<font size="6">Font size="6"</font><br/>
+<font size="7">Font size="7"</font><br/>
+
+<br></br>
+
+<marquee>AMAN</marquee>
+<marquee direction="right">AMAN</marquee>
+<marquee direction="UP">AMAN</marquee>
+
+
+<body style="background-color:powderblue;">
+
+<h1 style="color:blue">This is a heading</h1>
+<p style="color:red;">this is a paragraph</p>
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:verdana;">this is a paragraph</p>
+
+<h1 style="font-size:300%;">hiii</h1>
+<p style="font-size:160%;">aaaa</p>
+
+<h1 style="background-color:Dodgerblue;">Hello</h1>
+<p style="background-color:Tomato;">Lorem ipsum</p>	 
+
+<h1 style="color:Tomato;">Hello</h1>
+<p style="color:DodgerBlue;">Lorem ipsum</p>
+<p style="color:MediumSeaGreen;">aman</p>
+
+<h1 style="background-color:rgb(255,99,82);">Hello</h1>
+<h1 style="background-color:#ff6347;">new</h1>
+<h1 style="background-color:rgba(255,99,82,0.4);">Hello</h1>
+
+<a href="www.google.com">
+<img src="/home/6CSE1/Downloads/index.jpeg" alt=" image as a link"style="width:42px;height:42px;border:0;">
+</a>
+
+
+<p><img src="/home/6CSE1/Downloads/index.jpeg" alt="no image found" style="float:right;width:42px;height:42px;">
+this image will float to the right of the text.</p>
+
+
+<p style="background-images:url('/home/6CSE1/Downloads/index.jpeg');">
+</br>
+
+
+<div style="background-color:black;color:white;padding:20px;">
+<h2>aman</h2>
+<p>aaaa&nbspaaaaaa&centaaa&gtaa aaaaaaahgjhgjhgjggggggggg&copygggggg&eurogggga</p>
+</div>
+</br>
+
+<h1>my <span style ="color:red"> important </span>heading</h1> 
+
+
+<iframe src="/home/6CSE1/Downloads/index.jpeg" width="555" height="200"></iframe>
+ 
+
+
+
+
+
+
+</head>
+</html>	
